@@ -1,0 +1,75 @@
+/* Colors */
+
+.bg-blue {
+    background: #2BAFAC;
+}
+
+.bg-yellow {
+    background: #FFE57E;
+}
+
+.bg-pink {
+    background: #FF7BC5;
+}
+
+/* Text */
+
+.text-center {
+    text-align: center;
+}
+
+/* Header */
+
+.header-big {
+    font-size: 2rem;
+}
+
+.header-medium {
+    font-size: 1rem;
+}
+
+.header-small {
+    font-size: 0.75rem;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* Button */
+
+.btn {
+    margin-top: 1.25rem;
+    padding: 0.8rem 3rem;
+    border-radius: 0.75rem;
+    letter-spacing: 0.5px;
+}
+
+.btn-block {
+    width: 100% ;
+}
+
+/* Forms */
+
+.form-group {
+    padding: 0.25rem 0;
+}
+
+.form-group label {
+    display: block;
+}
+
+.form-control {
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 1rem;
+    resize: none;
+    border-radius: 5px;
+}
